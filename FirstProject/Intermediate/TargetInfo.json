@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstProject",
+			"Path": "C:\\Users\\Balance of Judgement\\Documents\\Unreal Projects\\FirstProject\\Source\\FirstProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstProjectEditor",
+			"Path": "C:\\Users\\Balance of Judgement\\Documents\\Unreal Projects\\FirstProject\\Source\\FirstProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

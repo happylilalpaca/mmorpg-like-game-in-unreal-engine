@@ -1,0 +1,36 @@
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\Explosive.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\Item.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Explosive.generated.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\Main.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\WeaponContainer.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\Weapon.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainer.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Main.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\Enemy.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Enemy.generated.h

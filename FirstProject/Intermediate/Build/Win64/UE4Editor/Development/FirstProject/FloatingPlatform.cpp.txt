@@ -1,0 +1,3 @@
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Source\FirstProject\FloatingPlatform.h
+C:\Users\Balance of Judgement\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\FloatingPlatform.generated.h
